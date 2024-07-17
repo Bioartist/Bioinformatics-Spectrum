@@ -1,14 +1,1 @@
-Starting python
-On Mac, your Anaconda distribution of python can be accessed by opening Terminal (Mac), typing python and hitting enter.
-
-On Windows, search for Anaconda PowerShell in the Windows menu, open it, then type python and hit enter. If you checked the box to add python to your path, you can also open it in regular PowerShell.
-
-after typing python and hitting enter, you may see something like this:
-
-Python 3.7.2 (default, Dec 29 2018, 00:00:04) [Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda custom (64-bit) on darwin Type "help", "copyright", "credits" or "license" for more information.
-
-That indicates that an interactive session has begun! You can now type python code and hit enter, and get either a result, or an error message (don't worry if you get errors - they're just feedback to help fix your code, and we'll talk about how to interpret them down below).
-
-Note about python vs. command line commands
-Note that once you start the python interpreter, everything else you type until you in that window will be interpreted as python code, not command line commands like ls or mkdir. Conversely, before you start python, python commands like print("Hello World") that we'll learn about below won't work, since they are not valid BASH or PowerShell commands. When you are in python you can quit at any time by typing quit() and hitting enter. Type python to go back into python.
-
+Introduction to Biopython
